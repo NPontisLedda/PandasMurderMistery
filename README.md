@@ -1,6 +1,6 @@
 # <h1 align=center> **THE PANDAS MURDER MYSTERY**  </h1>
 <p align="center">
-<img src="./_src/crime board.png"  height=500>
+
 </p>
 <figure src="./_src/crime board.png" Here is my figure caption!>
 
@@ -16,7 +16,7 @@
 
 <p align="center" > <h2 align="center"> ¡Manos a la obra detective! </h2>
 <p align="center">
-<img src = "./_src/Sherlock.png"  height=400>
+
 </p>
 
 
