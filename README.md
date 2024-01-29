@@ -1,3 +1,5 @@
+![Mistery](https://github.com/NPontisLedda/PandasMurderMystery/blob/main/PandasMurderMistery/_src/Sherlock.png)
+
 # <h1 align=center> **THE PANDAS MURDER MYSTERY**  </h1>
 <p align="center">
 
